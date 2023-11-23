@@ -1,0 +1,15 @@
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\bin\Release\net6.0\Xadrez.exe
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\bin\Release\net6.0\Xadrez.deps.json
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\bin\Release\net6.0\Xadrez.runtimeconfig.json
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\bin\Release\net6.0\Xadrez.dll
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\bin\Release\net6.0\Xadrez.pdb
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\Xadrez.csproj.AssemblyReference.cache
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\Xadrez.AssemblyInfoInputs.cache
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\Xadrez.AssemblyInfo.cs
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\Xadrez.dll
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\refint\Xadrez.dll
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\Xadrez.pdb
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\Xadrez.genruntimeconfig.cache
+C:\WorkSpace\C-Sharp\ProjetoXadrez\CSharp-Xadrez\Xadrez\obj\Release\net6.0\ref\Xadrez.dll
